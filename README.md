@@ -1,7 +1,7 @@
 # Data Analysis for a Crisis Recovery to an Online Food Delivery Start Up
 
 This whole project are based on *codebasic* challenges [here](https://codebasics.io/challenges/codebasics-resume-project-challenge/23). <br>
-You can see the report (dahsboard about this data analysis) [here](https://public.tableau.com/views/Codebasics-QuickBite/Dashboard3?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link).
+You can see the report (dashboard about this data analysis) [here](https://public.tableau.com/views/Codebasics-QuickBite/Dashboard3?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link).
 
 ## Problem Statement
 QuickBite Express is a Bengaluru-based food-tech startup (founded in 2020) that connects customers with nearby restaurants and cloud kitchens.
